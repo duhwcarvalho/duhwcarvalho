@@ -1,4 +1,7 @@
 <p align="center">
+    <img height="500" src="https://github.com/duhwcarvalho/duhwcarvalho/blob/main/space_discovery.svg" alt="space_discovery" >
+</p>
+<p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" >
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="javascript">
